@@ -1,10 +1,13 @@
 python-fitbit-webAPI
 =============
-This is built off the work of the creators of the Fitbit Web API library linked below:
+This is built off the work of the creators of the Fitbit Web API library linked here:
 https://github.com/orcasgit/python-fitbit
 
+The library has much more cabability then what is used for this project. We aim only to fetch the intra-day user data.
+The script to run is getHealthData after the instalation of the Web API.
 
-
+Installing and setting up the API can be seen in seteps 1 to 4 in this tutorial:
+https://www.kdnuggets.com/2020/02/using-fitbit-web-api-python.html
 
 
 
