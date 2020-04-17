@@ -1,4 +1,4 @@
-python-fitbit
+WIP
 =============
 
 .. image:: https://badge.fury.io/py/fitbit.svg
