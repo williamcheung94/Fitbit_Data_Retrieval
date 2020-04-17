@@ -1,21 +1,15 @@
-python-fitbit
+python-fitbit-webAPI
 =============
+This is built off the work of the creators of the Fitbit Web API library linked below:
+https://github.com/orcasgit/python-fitbit
 
-.. image:: https://badge.fury.io/py/fitbit.svg
-    :target: https://badge.fury.io/py/fitbit
-.. image:: https://travis-ci.org/orcasgit/python-fitbit.svg?branch=master
-   :target: https://travis-ci.org/orcasgit/python-fitbit
-   :alt: Build Status
-.. image:: https://coveralls.io/repos/orcasgit/python-fitbit/badge.png?branch=master
-   :target: https://coveralls.io/r/orcasgit/python-fitbit?branch=master
-   :alt: Coverage Status
-.. image:: https://requires.io/github/orcasgit/python-fitbit/requirements.png?branch=master
-   :target: https://requires.io/github/orcasgit/python-fitbit/requirements/?branch=master
-   :alt: Requirements Status
-.. image:: https://badges.gitter.im/orcasgit/python-fitbit.png
-   :target: https://gitter.im/orcasgit/python-fitbit
-   :alt: Gitter chat
 
+
+
+
+
+! Notes from origional developers:
+=============
 Fitbit API Python Client Implementation
 
 For documentation: `http://python-fitbit.readthedocs.org/ <http://python-fitbit.readthedocs.org/>`_
