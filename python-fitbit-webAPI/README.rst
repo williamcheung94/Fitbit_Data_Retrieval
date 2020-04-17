@@ -9,7 +9,7 @@ The script to run is getHealthData after the instalation of the Web API.
 Installing and setting up the API can be seen in seteps 1 to 4 in this tutorial:
 https://www.kdnuggets.com/2020/02/using-fitbit-web-api-python.html
 
-
+The Fitbit website has discriptions of the data type can be found in the Fitbit site:https://dev.fitbit.com/build/reference/web-api/
 
 ! Notes from origional developers:
 =============
